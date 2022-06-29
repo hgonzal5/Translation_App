@@ -1,6 +1,3 @@
-Most of the features of the app are explained in the translationappFlow.png picture i added to the zip file.
-
-But for posterity I will give a brief run down here as well: 
 
 'Translate Page' Tab:
 
@@ -25,10 +22,4 @@ any of translations that they no longer want.
 
 We implemented a presist store so it can remember the translations even when the app is terminated.
 
-
-
 The end.
-
-Link to the project below:
-
-https://expo.io/@blowjaysimpson/projects/translationApp_CS4540
